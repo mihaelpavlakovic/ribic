@@ -1,0 +1,235 @@
+.navbar-color {
+	background-color: #4b4c4c;
+}
+
+.navbar-nav {
+	padding: 0.5rem;
+}
+
+.navbar-nav li {
+	padding-right: 1.5rem;
+}
+
+.navbar-nav li a {
+	text-decoration: none;
+	color: #699b2c;
+	font-size: 1.2rem;
+}
+
+.text-color {
+	color: #699b2c;
+}
+
+.navbar-nav li a:hover {
+	color: #9eb665;
+}
+
+.grow {
+	transition: all .2s ease-in-out;
+}
+
+.grow:hover {
+	transform: scale(1.1);
+}
+
+.centriranje {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.pozadinska-slika {
+	background-image: url("../slike/jezera_rijeka/čingi2-min.jpg");
+	background-position: center;
+	background-repeat: none;
+	background-size: cover;
+	height: 80vh;
+}
+
+.jumbotron {
+	border-radius: 0;
+	padding: 2rem 1rem;
+}
+
+.container2 h1 {
+	text-align: center;
+	font-size: 6rem;
+	color: #699b2c;
+}
+
+.container2 p {
+	color: #699b2c;
+	text-align: justify;
+	padding: 0 5rem;
+}
+
+.pozadina {
+	background-color: #4b4c4c;
+	border-radius: 15px;
+	padding: 3rem 0;
+	text-align: center;
+}
+
+.pozadina button a {
+	background-color: #81667a;
+	border-radius: 5px;
+	display: inline-block;
+	font-size: 16px;
+	color: #699b2c;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.pozadina button a:hover {
+	color: #9eb665;
+}
+
+.poz-boja {
+	background-color: #4b4c4c;
+	color: #9eb665;
+	margin-top: 1rem;
+	border-radius: 5px;
+}
+
+.podnaslov h2 {
+	font-size: 4rem;
+	color: #699b2c;
+	margin-bottom: 2rem;
+}
+
+.poz-boja .podnaslov2 h2 {
+	font-size: 3rem;
+}
+
+.poz-boja2 {
+	background-color: #8c8a93;
+	padding: 3rem 0;
+	margin: 0 20rem 2rem 20rem;
+	border-radius: 5px;
+}
+
+.slika1 {
+	background-image: url("../slike/kamp/anaconda-šator-2.png");
+	background-position: center;
+	background-repeat: none;
+	background-size: cover;
+	height: 300px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.slika2 {
+	background-image: url("../slike/jezera_rijeka/separacija1-min.png");
+	background-position: center;
+	background-repeat: none;
+	background-size: cover;
+	height: 300px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.slika3 {
+	background-image: url("../slike/ribe/sunčanica2.png");
+	background-position: center;
+	background-repeat: none;
+	background-size: cover;
+	height: 300px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.slika1 h3,
+.slika2 h3,
+.slika3 h3 {
+	color: #92b4a7;
+	font-weight: bold;
+}
+
+.tekst a:hover {
+	text-decoration: none;
+}
+
+.karta {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #8c8a93;
+}
+
+.oblikovanje {
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+}
+
+.prava {
+	color: #699b2c;
+	font-size: 2rem;
+}
+
+ul {
+	list-style-type: none;
+}
+
+table {
+	margin: 3rem auto;
+}
+
+table tr th {
+	background-color: #699b2c;
+	color: #fff;
+	padding: 1rem 0;
+}
+
+table tr th:first-child {
+	border-top-left-radius: 10px;
+}
+
+table tr th:last-child {
+	border-top-right-radius: 10px;
+}
+
+table tr td {
+	text-align: left;
+	padding: 0.5rem 2rem;
+}
+
+.footer {
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	background-color: #4b4c4c;
+	color: #699b2c;
+}
+
+footer h4 {
+	font-weight: bold;
+	font-size: 2rem;
+	margin-bottom: 2rem;
+}
+
+.row {
+	margin: 2rem 0;
+}
+
+.container {
+	width: 100%;
+	padding-right: 1.5rem;
+	padding-left: 1.5rem;
+}
+
+.logo {
+	width: 80%;
+}
+
+.copyright {
+	background-color: #3b3c3c;
+	color: #699b2c;
+}
+
+.velicina {
+	margin-bottom: 3rem;
+}
