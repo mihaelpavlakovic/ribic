@@ -314,7 +314,6 @@ footer h4 {
 	.podnaslov h2 {
 		font-size: 2rem;
 		margin-bottom: 2rem;
-		margin-top: 2rem;
 	}
 
 	.mar2 {
@@ -357,6 +356,7 @@ footer h4 {
 	}
 
 	iframe {
+		margin-top: 2rem;
 		height: 300px;
 	}
 }
