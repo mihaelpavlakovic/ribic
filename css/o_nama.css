@@ -1,0 +1,75 @@
+.navbar-color {
+	background-color: #4b4c4c;
+}
+
+.navbar-nav {
+	padding: 0.5rem;
+}
+
+.navbar-nav li {
+	padding-right: 1.5rem;
+}
+
+.navbar-nav li a {
+	text-decoration: none;
+	color: #699b2c;
+	font-size: 1.2rem;
+}
+
+.text-color {
+	color: #699b2c;
+}
+
+.navbar-nav li a:hover {
+	color: #9eb665;
+}
+
+.grow {
+	transition: all .2s ease-in-out;
+}
+
+.grow:hover {
+	transform: scale(1.1);
+}
+
+.footer {
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	background-color: #4b4c4c;
+	color: #699b2c;
+}
+
+footer h4 {
+	font-weight: bold;
+	font-size: 2rem;
+	margin-bottom: 2rem;
+}
+
+.row {
+	margin: 2rem 0;
+}
+
+.container {
+	width: 100%;
+	padding-right: 1.5rem;
+	padding-left: 1.5rem;
+}
+
+.logo {
+	width: 80%;
+}
+
+.copyright {
+	background-color: #3b3c3c;
+	color: #699b2c;
+}
+
+.velicina {
+	margin-bottom: 3rem;
+}
+
+.podnaslov h2 {
+	font-size: 4rem;
+	color: #699b2c;
+	margin-bottom: 2rem;
+}
