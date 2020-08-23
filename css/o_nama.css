@@ -73,3 +73,14 @@ footer h4 {
 	color: #699b2c;
 	margin-bottom: 2rem;
 }
+
+@media (max-width: 768px) {
+	.navbar-brand {
+		width: 60%;
+	}
+
+	.podnaslov h2 {
+		font-size: 3rem;
+		margin-top: 2rem;
+	}
+}
