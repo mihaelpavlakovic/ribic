@@ -359,4 +359,8 @@ footer h4 {
 		margin-top: 2rem;
 		height: 300px;
 	}
+
+	video {
+		margin-top: 1rem;
+	}
 }
